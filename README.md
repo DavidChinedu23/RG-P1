@@ -8,3 +8,4 @@ cd RG-P1
 
 python RG-X1.py
 
+Thank for using my tool
